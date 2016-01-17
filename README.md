@@ -1,5 +1,5 @@
 # django-angular_site
-Fully created propject for thinkster.io tutorial
+Fully created propject for [thinkster.io](https://thinkster.io/django-angularjs-tutorial) tutorial
 
 ### Used
 - [Django 1.7.1](https://www.djangoproject.com/)
